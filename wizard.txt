@@ -1,0 +1,8 @@
+
+name="DimiTVWizard"
+url="https://archive.org/download/DimiTV/DimiTV.zip?download=1"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+description="My new Wizard with help from TGT"
+
+
